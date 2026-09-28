@@ -26,9 +26,8 @@ de Versionamento e Colaboração do SENAI.
 ## Estrutura do projeto
 
 - `index.html` — estrutura principal da página.
-- `gremio/style.css` — estilos da página.
-- `gremio/script.js` — funcionalidades em JavaScript.
-- `gremio/escudo-imortal.png` — imagem utilizada no projeto.
+- `style.css` — estilos da página.
+- `script.js` — funcionalidades em JavaScript.
 - `.gitignore` — arquivos que não devem ser enviados ao Git.
 - `README.md` — documentação do projeto.
 
